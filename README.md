@@ -2,7 +2,7 @@
 
 # Introduction
 
-* This script allows a user to send tons of messages (basically scamming) as fast as it is possible to all his whatsapp contacts with certain keywords
+* This script allows a user to send tons of messages (basically scamming) as fast as it is possible to someone's all whatsapp contacts with certain keywords
 
 ## Installation
 * Install 3.8 from [here](https://www.python.org/downloads/release/python-382/)
